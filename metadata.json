@@ -1,0 +1,6 @@
+{
+  "name": "Skyplan",
+  "description": "Weather and event-date planning app for India with 10-day forecasts, event suitability scoring, 10-year climate history, flight airport checks, multilingual Indian language AI planning, and voice alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
